@@ -1,0 +1,277 @@
+{
+	"types": [
+		
+			{
+				"id": "tangping1",
+				"img": ".images/tangping1.jpg",
+				"price": 10,
+				"name": "客家清炖猪肉汤",
+				"mainDescribe": "汤汁鲜甜入味",
+				"detailDescribe": "新鲜的土猪肉，选取结实猪前腿部分，文火慢熬几个小时，猪肉的鲜甜尽数被汤汁吸收"
+			},
+			{
+				"id": "tangping2",
+				"img": ".images/tangping2.jpg",
+				"price": 10,
+				"name": "中式炖汤",
+				"mainDescribe": "清冽不油腻",
+				"detailDescribe": "新鲜的土猪肉，选取结实猪前腿部分，文火慢熬几个小时，猪肉的鲜甜尽数被汤汁吸收。"
+			},
+			{
+				"id": "tangping3",
+				"img": ".images/tangping3.jpg",
+				"price": 15,
+				"name": "罗宋汤",
+				"mainDescribe": "俄罗斯美食",
+				"detailDescribe": "寒冷的冬天喝上一碗酸酸甜甜的罗宋汤，真的很舒服很营养。"
+			},
+			{
+				"id": "tangping4",
+				"img": ".images/tangping4.jpg",
+				"price": 10,
+				"name": "忌廉粟米鸡粒汤",
+				"mainDescribe": "每日炖汤",
+				"detailDescribe": "健脾开胃，补而不燥。适用于冠心病、高血压等疾病。"
+			
+	    },
+
+			{
+				"id": "zc1",
+				"img": ".images/zc1.jpg",
+				"price": 40,
+				"name": "咸鱼茄瓜饭",
+				"mainDescribe": "广东的特色菜",
+				"detailDescribe": "广东的特色菜，吃饭必点，十分下饭的一道菜"
+			},
+			{
+				"id": "zc2",
+				"img": ".images/zc2.jpg",
+				"price": 40,
+				"name": "榄菜肉沫炒饭",
+				"mainDescribe": "榄菜肉沫炒饭",
+				"detailDescribe": "色感口感俱佳"
+			},
+			{
+				"id": "zc3",
+				"img": ".images/zc3.jpg",
+				"price": 38,
+				"name": "香菇滑鸡饭",
+				"mainDescribe": "香菇滑鸡饭",
+				"detailDescribe": "色感口感俱佳，深受当地民众喜爱。"
+			},
+			{
+				"id": "zc4",
+				"img": ".images/zc4.jpg",
+				"price": 40,
+				"name": "美式肉眼牛扒",
+				"mainDescribe": "美式肉眼牛扒",
+				"detailDescribe": "美式肉眼牛扒，菜肴名称，取名独特，色感口感俱佳，深受当地民众喜爱。"
+			},
+			{
+				"id": "zc5",
+				"img": ".images/zc5.jpg",
+				"price": 43,
+				"name": "梅花猪扒拼石斑鱼",
+				"mainDescribe": "梅花猪扒拼石斑鱼",
+				"detailDescribe": "金黄焦香，超级好味。"
+			},
+			{
+				"id": "zc6",
+				"img": ".images/zc6.jpg",
+				"price": 45,
+				"name": "果木雪花牛扒",
+				"mainDescribe": "果木雪花牛扒",
+				"detailDescribe": "7成熟最好吃了，肉嫩甜，就算不蘸酱汁都好正！"
+			},
+			{
+				"id": "zc7",
+				"img": ".images/zc7.jpg",
+				"price": 35,
+				"name": "果木烤羊按扒",
+				"mainDescribe": "果木烤羊按扒",
+				"detailDescribe": "没有过重的羊膻气，金黄焦香，超级好味。"
+			},
+			{
+				"id": "zc8",
+				"img": ".images/zc8.jpg",
+				"price": 40,
+				"name": "澳洲雪花牛小扒",
+				"mainDescribe": "澳洲雪花牛小扒",
+				"detailDescribe": "特选果木，精心烤制20分钟，内里肉质香软，汁水充沛，外部焦香不柴。"
+			}
+      {
+				"id": "zc9",
+				"img": ".images/zc.jpg",
+				"price": 35,
+				"name": "长沙古法焖洋鸭",
+				"mainDescribe": "长沙古法焖洋鸭",
+				"detailDescribe": "内里肉质香软，汁水充沛，超级好味。"
+			},
+			{
+				"id": "zc10",
+				"img": ".images/zc10.jpg",
+				"price": 45,
+				"name": "客家酿豆腐",
+				"mainDescribe": "客家酿豆腐",
+				"detailDescribe": "粤菜中的经典菜系，豆腐清甜滑嫩，豆香扑鼻。"
+			},
+			{
+				"id": "zc11",
+				"img": ".images/zc11.jpg",
+				"price": 40,
+				"name": "韭香鱿鱼丝",
+				"mainDescribe": "韭香鱿鱼丝",
+				"detailDescribe": "鱿鱼弹牙爽脆的口感，浓郁的韭菜铺底，肉质鲜香，韭菜解腻，恰到好处。"
+			},
+			{
+				"id": "zc12",
+				"img": ".images/zc12.jpg",
+				"price": 40,
+				"name": "陈坛剁椒鱼头",
+				"mainDescribe": "陈坛剁椒鱼头",
+				"detailDescribe": "剁椒的香辣气味渗入鲜嫩柔软的鱼肉中，每一口都是好滋味。"
+			},
+				{
+				"id": "zc13",
+				"img": ".images/zc13.jpg",
+				"price": 40,
+				"name": "啃啃农家鸡",
+				"mainDescribe": "啃啃农家鸡",
+				"detailDescribe": "8成熟最好吃了，肉嫩甜，就算不蘸酱汁都好正！"
+			},
+			{
+				"id": "zc14",
+				"img": ".images/zc14.jpg",
+				"price": 40,
+				"name": "海胆炒饭",
+				"mainDescribe": "海胆炒饭",
+				"detailDescribe": "色感口感俱佳"
+			
+	    },
+
+			{
+				"id": "yl1",
+				"img": ".images/yl1.jpg",
+				"price": 25,
+				"name": "特调鲜橙汁",
+				"mainDescribe": "特调鲜橙汁",
+				"detailDescribe": "常喝橙汁不但能防病，还能卸妆、洁肤"
+			},
+			{
+				"id": "yl2",
+				"img": ".images/yl2.jpg",
+				"price": 25,
+				"name": "港式奶茶",
+				"mainDescribe": "港式奶茶",
+				"detailDescribe": "入口幼滑如丝，不会一饮而泻，而是延绵细蜜，有奶油的口感。"
+			},
+			{
+				"id": "yl3",
+				"img": ".images/yl3.jpg",
+				"price": 25,
+				"name": "咖啡",
+				"mainDescribe": "Coffee",
+				"detailDescribe": "入口幼滑如丝，不会一饮而泻，而是延绵细蜜，提神醒脑。"
+			},
+			{
+				"id": "yl4",
+				"img": ".images/yl4.jpg",
+				"price": 25,
+				"name": "满杯金芒芒",
+				"mainDescribe": "满杯金芒芒",
+				"detailDescribe": "芒果肉丰厚，每一口都喝得到果肉。"
+			},
+			{
+				"id": "yl5",
+				"img": ".images/yl5.jpg",
+				"price": 25,
+				"name": "满杯大西瓜",
+				"mainDescribe": "满杯大西瓜",
+				"detailDescribe": "浓厚的芝士，醇厚的口感搭上西瓜的冰甜清爽，"
+			},
+			{
+				"id": "yl6",
+				"img": ".images/yl6.jpg",
+				"price": 25,
+				"name": "爆柠茶",
+				"mainDescribe": "爆柠茶",
+				"detailDescribe": "霸气爆柠茶整颗柠檬酸爽沁人心脾。"
+			},
+			{
+				"id": "yl7",
+				"img": ".images/yl7.jpg",
+				"price": 32,
+				"name": "黑糖青蛙撞奶",
+				"mainDescribe": "黑糖青蛙撞奶",
+				"detailDescribe": "黑糖青蛙撞奶，网红的脏脏茶，Q弹软糯的珍珠，黑糖香甜，好喝。"
+			},
+			{
+				"id": "yl8",
+				"img": ".images/yl8.jpg",
+				"price": 32,
+				"name": "提拉米苏",
+				"mainDescribe": "提拉米苏",
+				"detailDescribe": "提拉米苏，网红的脏脏茶，香甜，好喝。"
+		
+	    },
+
+			{
+				"id": "et1",
+				"img": ".images/et1.jpg",
+				"price": 25,
+				"name": "飞机造型炒饭",
+				"mainDescribe": "飞机造型炒饭",
+				"detailDescribe": "这个经典造型不是间间店都有的！饭的整个造型吸引小朋友眼球，可以让小朋友认真吃饭啦！"
+			},
+			{
+				"id": "et2",
+				"img": ".images/et2.jpg",
+				"price": 25,
+				"name": "五彩冰淇淋",
+				"mainDescribe": "五彩冰淇淋",
+				"detailDescribe": "入口幼滑如丝，不会一饮而泻，而是延绵细蜜，有奶油的口感。"
+			},
+			{
+				"id": "et3",
+				"img": ".images/et3.jpg",
+				"price": 45,
+				"name": "合家欢披萨",
+				"mainDescribe": "Coffee",
+				"detailDescribe": "一个披萨，多份快乐"
+			},
+			{
+				"id": "et4",
+				"img": ".images/et4.jpg",
+				"price": 25,
+				"name": "巧克力流芯",
+				"mainDescribe": "巧克力流芯",
+				"detailDescribe": "巧克力流芯，看着它流，小编的口水也快流下来了！！！"
+			},
+			{
+				"id": "et5",
+				"img": ".images/et5.jpg",
+				"price": 25,
+				"name": "草莓酱马卡龙",
+				"mainDescribe": "草莓酱马卡龙",
+				"detailDescribe": "造型可爱，入口即化"
+			},
+			{
+				"id": "et6",
+				"img": ".images/et6.jpg",
+				"price": 25,
+				"name": "冰淇淋芒芒",
+				"mainDescribe": "冰淇淋芒芒",
+				"detailDescribe": "芒果肉丰厚，冰淇淋绵密每一口都吃得到果肉。"
+			},
+			{
+				"id": "et7",
+				"img": ".images/et7.jpg",
+				"price": 25,
+				"name": "蓝莓酱飞机蛋糕",
+				"mainDescribe": "蓝莓酱飞机蛋糕",
+				"detailDescribe": "Q萌可爱，香甜可口。"
+			}
+		]
+	}
+
+}
